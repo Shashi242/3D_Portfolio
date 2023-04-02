@@ -2,6 +2,8 @@ Project hosted link: https://animated-gecko-e1e7ea.netlify.app
 
 This is a portfolio project a collection of works or achievements that showcase my skills, abilities, and accomplishments.
 
+Some Boilerplate of the project below...
+
 ![pic1](https://user-images.githubusercontent.com/84275426/229377391-5ffde73a-f1b3-46e6-a752-982bcc31211f.png)
 
 ![pic2](https://user-images.githubusercontent.com/84275426/229377411-5ad91824-0702-42ff-8abc-2a4831b84656.png)
