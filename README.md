@@ -1,4 +1,4 @@
-PRoject hosted link: https://animated-gecko-e1e7ea.netlify.app
+Project hosted link: https://animated-gecko-e1e7ea.netlify.app
 
 This is a portfolio project a collection of works or achievements that showcase my skills, abilities, and accomplishments.
 
