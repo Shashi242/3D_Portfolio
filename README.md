@@ -1,20 +1,9 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+PRoject hosted link: https://animated-gecko-e1e7ea.netlify.app
 
-## Introduction
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
- 
-In this course, you'll learn the following:
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
-You'll also learn how to:
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Implement sending emails through a form on the website
-- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+This is a portfolio project a collection of works or achievements that showcase my skills, abilities, and accomplishments.
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+![pic1](https://user-images.githubusercontent.com/84275426/229377391-5ffde73a-f1b3-46e6-a752-982bcc31211f.png)
+
+![pic2](https://user-images.githubusercontent.com/84275426/229377411-5ad91824-0702-42ff-8abc-2a4831b84656.png)
+
+![pic3](https://user-images.githubusercontent.com/84275426/229377415-7c4cddc1-da88-4bd6-86cf-7e3609b40de2.png)
